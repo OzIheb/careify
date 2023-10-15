@@ -1149,6 +1149,11 @@ select {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
+.bg-\[\#4DB342\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(77 179 66 / var(--tw-bg-opacity));
+}
+
 .bg-gradient-to-tr {
   background-image: linear-gradient(to top right, var(--tw-gradient-stops));
 }
@@ -1388,6 +1393,11 @@ select {
 .text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+
+.text-\[\#4DB342\] {
+  --tw-text-opacity: 1;
+  color: rgb(77 179 66 / var(--tw-text-opacity));
 }
 
 .opacity-30 {
