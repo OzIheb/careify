@@ -1,0 +1,24 @@
+pip freeze > requirements.txt
+```
+
+## Running the tests
+
+```
+
+```
+
+## Deployment
+
+```
+
+```
+
+## Built With
+
+* [Django](https://www.djangoproject.com/) - The web framework used
+* [Django-Compressor](https://django-compressor.readthedocs.io/en/latest/) - The web framework used
+
+## Contributing
+
+```
+```
