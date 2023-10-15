@@ -43,7 +43,7 @@ def authentification(request):
         except:
             user = None
         if user is not None and user.password == login_password:
-            return redirect( '/landing/')    
+            return redirect( '')    
         else:
             return redirect( '/login/')
 
